@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21126.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{F97B68A5-5285-4232-8E34-E0FC02A780ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{673EA667-F2BE-4227-BA87-94D0B89732BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97B68A5-5285-4232-8E34-E0FC02A780ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97B68A5-5285-4232-8E34-E0FC02A780ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97B68A5-5285-4232-8E34-E0FC02A780ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97B68A5-5285-4232-8E34-E0FC02A780ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673EA667-F2BE-4227-BA87-94D0B89732BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673EA667-F2BE-4227-BA87-94D0B89732BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673EA667-F2BE-4227-BA87-94D0B89732BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673EA667-F2BE-4227-BA87-94D0B89732BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
